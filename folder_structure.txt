@@ -1,0 +1,12 @@
+hello-gitops/
+│
+├── app/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── Dockerfile
+│
+├── k8s/
+│   ├── deployment.yaml
+│   └── service.yaml
+│
+└── README.md
