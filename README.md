@@ -262,3 +262,7 @@ After completing this project you should understand:
 - Secrets Management
 - AWS EKS
 - Monitoring with Prometheus & Grafana
+
+
+<img width="1917" height="1079" alt="Screenshot 2026-06-26 152106" src="https://github.com/user-attachments/assets/96377426-7337-4c51-a83f-48c85629ac58" />
+
