@@ -20,7 +20,7 @@ spec:
       containers:
       - name: hello-gitops
 
-        image: prakash123/hello-gitops:v1
+        image: prakash227/hello-gitops:v1
 
         ports:
         - containerPort: 8000
