@@ -7,5 +7,5 @@ app = FastAPI()
 async def root():
     return {
         "message": "Hello GitOps!",
-        "version": "v1"
+        "version": "v2"
     }
